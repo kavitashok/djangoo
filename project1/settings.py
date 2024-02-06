@@ -29,7 +29,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-xa+r@^c671(fa!6h8+0gg1i3s(bl!8fpws52qn)456h9b7@u0@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['Kavitha.pythonanywhere.com']
 
